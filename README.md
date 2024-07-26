@@ -26,11 +26,22 @@ Evacutape is a fire evacuation device that uses a led strip to show  route to th
 6. Arduino nano mircocontroller
 7. Led strip
 
-## Demo: Video will be added later
+
+##Demo
+https://github.com/user-attachments/assets/8db387bc-fb19-43e1-a012-478964ce7265
+
+
 
 ## Links
 https://docs.google.com/presentation/d/1LaL2WqS_A67OlqZz6sFO5hPpr_6GAVBWsvo8UBWXuXI/edit#slide=id.g21daea343f2_0_91
 https://docs.google.com/presentation/d/1JQCoblViJlLkA1nh9nC63cHE2rfp-86G/edit#slide=id.g115871a5678_0_0
 
+## Images
+
+
+![20230411_083720](https://github.com/user-attachments/assets/23e26699-07cc-4524-8e7f-6add2dbfe762)
+
+
+![20230411_083859](https://github.com/user-attachments/assets/86762c27-a6f2-4fab-a3f9-294202f4a7e7)
 
 
